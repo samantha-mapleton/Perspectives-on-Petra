@@ -1,0 +1,53 @@
+---
+title: "Building a Picture"
+lightbox: true
+bibliography: references.bib
+---
+
+The gallery is arranged by categories of evidence that accords with figure 1 - 'Perspectives on archaeological studies at Petra from 1935-2022' in the Academic Research at Petra section and serves as a visual narrative of Petra's archaeological history.
+
+The gallery excludes images from Kennedy (2018), Parker (2019), Perry et al. (2020), Aviles et al. (2019), and Propst et al. (2022) as no images were included in the publications.
+
+### TOMBS
+
+Studies on tombs include revealing the structure of Nabataean society and the symbols used to express ideology.
+
+![Facade of tomb 781 at the base of al-Khubthah mountain in Petra's hinterland in the 'royal necropolis' \| Wadeson 2014, p.243](images/al-Khubtah%20Tombs%20facade%20781.jpg){.lightbox fig-align="left" group="my-gallery" width="270" height="210"} ![Grave of burial chamber tomb 781 at al-Khubthah \| Wadeson 2014, p.246](images/al-Khubthah%20Tombs%20grave%20tomb%20br.%20781%20burial%20chamber.jpg){.lightbox fig-align="left" group="my-gallery" width="270" height="210"} ![North-eastern corner of burial chamber tomb 781 at al-Khubthah \| Wadeson 2014, p.243](images/al-Khubthah%20Tombs%20north-eastern%20corner%20tomb%20br.%20781%20burial%20chamber.jpg){.lightbox fig-align="left" group="my-gallery" width="270" height="210"} ![Gold earring discovered in burial chamber tomb 781 at al-Khubthah \| Wadeson 2014, p.245](images/al-Khubthah%20Tombs%20gold%20earring%20tomb%20br.%20781%20burial%20chamber.jpg){.lightbox fig-align="left" group="my-gallery" width="270" height="210"}
+
+### TEMPLES
+
+A major focus of investigation has been The Great Temple in Petra's city center, which has contributed significantly in building a picture of Petra through this line of evidence.
+
+##### 1996-2000 Excavation at The Great Temple - A Picture Emerges
+
+![1996 Aerial of The Great Temple \| https://opencontext.org/media/42ed2d89-b58c-4933-5795-8d74d68d6661](images/1996%20Aerial%20-%20The%20Great%20Temple.jpg){.lightbox fig-align="left" group="my-gallery" width="350" height="350"} ![1997 Aerial of The Great Temple \| https://opencontext.org/media/b2691f8a-9930-4f59-fff6-2db987bae124](images/1997%20Aerial%20-%20The%20Great%20Temple.jpg){.lightbox fig-align="center" width="350" height="350" group="my-gallery"} ![1998 Aerial of The Great Temple \| https://opencontext.org/media/3206464a-0515-405e-faab-54d80528c7f4](images/1998%20Aerial%20-%20The%20Great%20Temple.jpg){.lightbox fig-align="right" width="350" height="350" group="my-gallery"} ![2002 Aerial of The Great Temple \| https://opencontext.org/media/8d4f9c6d-7bbc-4d2d-12f7-4e89705a8a7c](images/2002%20Aerial%20-%20The%20Great%20Temple_Brown.jpg){.lightbox fig-align="left" width="350" height="350" group="my-gallery"} ![2003 Aerial of The Great Temple \| https://opencontext.org/media/966fd8ee-e548-43df-4bea-22f078e0e351](images/2003%20Aerial%20-%20The%20Great%20Temple.jpg){.lightbox fig-align="center" width="350" height="350" group="my-gallery"} ![2004 Aerial of The Great Temple \| https://opencontext.org/media/4b70f8be-5e49-4ace-c771-5c71fe70e5ac](images/2004%20Aerial%20-%20The%20Great%20Temple_Brown.jpg){.lightbox fig-align="right" width="350" height="350" group="my-gallery"}
+
+##### A Pool Complex is discovered near The Great Temple - The Picture Expands
+
+![Aerial view of the Pool Complex at Petra's city center after 1998 field season \| Bedal 2001, p.26](images/Pool%20COMplex%20aerial%20view%20after%201998%20season.jpg){.lightbox fig-align="left" width="350" height="350" group="my-gallery"} ![Site plan of the Pool Complex in Petra's city center \| Bedal 2001, p.24](images/Pool%20complex%20site%20plan%20from%201998%20showing%20major%20architectural%20features%20including%20pool%20and%20island%20pavillion.jpg){.lightbox fig-align="center" width="350" height="350" group="my-gallery"} ![Labelled aerial view of the Pool Complex in relation to The Great Temple \| Ramsay & Bedal 2015, p.622](images/Botanical%20image%20pool%20&%20garden.jpg){.lightbox fig-align="right" width="350" height="345" group="my-gallery"} ![Carbonized plant remains of olives, grapes and figs from the Pool Complex at Petra's city center \| Ramsay & Bedal 2015, p.627](images/Botanical%20pool%20and%20garden%20carbonized%20plant%20remains.jpg){.lightbox fig-align="center" width="1060" height="210" group="my-gallery"}
+
+### SANCTUARY
+
+Sanctuary studies are typically from a religious aspect and reveal a pattern in the location being at high points in Petra's urban and regional landscape. Votive niches known as 'betyls' are usually encountered along the route to a place of high scantuary.
+
+![Great High Place sanctuary in the Qasr al-Bint, the Temple of the WInged Lions \| Wenning 1995, p.90](images/Great%20High%20Place%20Temple%20of%20the%20winged%20lions.jpg){.lightbox fig-align="left" width="372" height="290" group="mygallery"} ![Nabataean shrine against southwest wall of 'Conway High Place' \| Albright 1935, p.22](images/Conway%20high%20place.jpg){.lightbox fig-align="center" width="372" height="290" group="mygallery"} ![Processional pathway and stairs to access Nabatawean shrine 'Conway High Place' \| Albright 1935, p.25](images/Conway%20high%20place%20stairs.jpg){.lightbox fig-align="right" width="372" height="290" group="mygallery"}
+
+![Diagram of Nabataean shrine 'Conway High Place' \| Albright 1935, p.21](images/Conway%20high%20place%20diagram.jpg){.lightbox fig-align="left" width="550" height="450" group="mygallery"} ![Diagram of sanctuary at Ras Slaysil \| Linder & Gunsam 1995, p.272](images/Ras%20Slaysil%20diagram.jpg){.lightbox fig-align="right" width="550" height="450" group="mygallery"}
+
+![High place sanctuary at Ras Slaysil \| Linder & Gunsam 1995, p.271](images/Ras%20Slaysil%20high%20place.jpg){.lightbox fig-align="left" width="555" height="400" group="mygallery"} ![Processional stairs to access sanctuary at Ras Slaysil \| Linder & Gunsam 1995, p.270](images/Ras%20Slaysil%20stairs.jpg){.lightbox fig-align="right" width="555" height="400" group="mygallery"}
+
+![Archived votice niche with visible hollow base to insert a betyl \| Wenning 2001, p.89](images/Betyl%20motab%20arched%20niche%20at%20Siq.jpg){.lightbox fig-align="left" width="330" height="350" group="mygallery"} ![Nabataean votice niche at Sidd al-Ma'jin \| Belmonte 2020, p.374](images/Betyl%20Sidd.jpg){.lightbox fig-align="center" width="480" height="350" group="mygallery"} ![Nabataean eye betyl of Syrian goddess Atargatis \| Wenning 2001, p.84](images/Betyl%20Syrian%20goddess.jpg){.lightbox fig-align="right" width="300" height="350" group="mygallery"}
+
+### MONUMENTS
+
+Studies on monuments include a strong focus on architectural features both domestic and royal, construction methods and investigation into the astronomical Equinox phenomena.
+
+![Architectural features of a Nabataean mansion in Petra's hinterland \| Kolb 2002, p.261](images/Nabataean%20mansion.jpg){.lightbox fig-align="left" width="560" height="330" group="mygallery"} ![Painted architectural features inside room 1 of Nabataen mansion in Petra's hinterland \| Kolb 2002, p.262](images/Nabataean%20mansion%20painted%20wall.jpg){.lightbox fig-align="right" width="560" height="330" group="mygallery"} ![Zoomorphic elephant head from The Great Temple \| Rababeh et al. 2010, p.70](images/Zoomorphic%20elephant%20head%20from%20The%20Great%20Temple.jpg){.lightbox fig-align="left" width="560" height="300" group="mygallery"} ![Nabataean stonemason's toolkit \| Rababeh et al. 2010, p.79](images/Construction%20stonemasons%20toolkit.jpg){.lightbox fig-align="right" width="560" height="300" group="mygallery"}
+
+![View of the Nabataen 'Painted House' monument 7m above ground level \| Twaissi et al. 2010, p.32](images/Painted%20house%207m%20above%20ground%20level.jpg){.lightbox fig-align="left" width="370" height="330" group="mygallery"} ![evidence of a painted wall representing Isis at the 'Painted House' \| Twaissi et al. 2010, p.38](images/Painted%20house%20figures%20representing%20Isis.jpg){.lightbox fig-align="center" width="390" height="330" group="mygallery"} ![The dining room, 'biclinium' of the 'Painted House' \| Twaissi et al. 2010, p.32](images/Painted%20House%20view%20of%20dining%20room%20as%20biclinium.jpg){.lightbox fig-align="right" width="350" height="330" group="mygallery"} 
+
+### LANDSCAPE
+
+Studies on landscape include water supply and management strategies and social aspects.
+
+![Nabataean draining tunnel leading water away from the Siq entry to Wadi Sayagh \| Ortloff 2020, p.6](images/Nabataean%20water%20draining%20tunnel%20leading%20water%20away%20from%20Siq.jpg){.lightbox fig-align="left" width="275" height="200" group="mygallery"} ![Nabataean channel cut to support pipeline water supply to Peytra's city center along the north wall of the Siq \| Ortloff 2020, p.7](images/Nabataean%20water%20channel%20cut%20supply%20water%20Siq%20passageway.jpg){.lightbox fig-align="left" width="275" height="200" group="mygallery"} ![Upper level Zurraba reservoir \| Ortloff 2020, p.7](images/Nabataean%20water%20reservoir%20at%20Zurraba.jpg){.lightbox fig-align="left" width="275" height="200" group="mygallery"} ![Open basin between segments of pipeline along the Siq \| Ortloff 2020, p.8](images/Nabataean%20water%20open%20basin%20between%20pipeline%20segments%20at%20Siq.jpg){.lightbox fig-align="left" width="275" height="200" group="mygallery"} ![Regional map of BUPAP survey area \| Knodell et al. 2017, p.623](images/BUPAP%20survey%20area%20regional%20map.jpg){.lightbox fig-align="left" width="555" height="600" group="mygallery"} ![Water channel cut into bedrock in Petra's hinterland \| Plekhov 2020, p.328](images/hinterland%20water%20channel%20cut%20bedrock.jpg){.lightbox fig-align="right" width="555" height="500\"" group="mygallery"} ![An agricultural terrace in Petra's hinterland \| Plekhov 2020, p. 327](images/hinterland%20agricultural%20terrace.jpg){.lightbox fig-align="left" width="550" height="370" group="mygallery"} ![Rock-cut bottle cistern at Umm al-Biyara, Petra \| Oleson 1995, p.709](images/Rock-cut%20bottle%20cisterns%20Umm%20al-Biyara%20at%20Petra.jpg){.lightbox fig-align="right" width="560" height="390" group="mygallery"}

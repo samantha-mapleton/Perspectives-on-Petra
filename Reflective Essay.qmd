@@ -1,0 +1,37 @@
+---
+title: "Reflective Essay"
+csl: chicago-fullnote-bibliography.csl
+bibliography: references.bib
+---
+
+#### GUIDING QUESTIONS
+
+**What is the focus of your research topic, and why is it significant?**
+
+-   The focus is on key publications that have investigated Petra's archaeological history and the various perspectives applied to build a coherent picture of the ancient Nabataean city. It is significant because it establishes a chronology and looks at how each study has shaped our understanding of Nabataean Petra.
+
+**Who is your intended audience, and how does the interface cater to their needs?**
+
+-   Senior high school and undergraduate students seeking a consolidated synthesis of Petra's archaeological history will find this a useful source, that is delivered using a familar and generally easily accessible medium.
+
+**What design choices did you make, and what informed these decisions?**
+
+-   A clean and minimal design was used for easy navigation to avoid it being in competition with the material being presented.
+
+**What challenges did you encounter during the creation process, and how did you address them?**
+
+-   A significant lack of coding experience was a major challenge, which was addressed by presenting various forms of media in a simplistic way within the novice skill level that still had impact and contributed to the narrative structure.
+
+-   Working against the assumption that AI has contributed in small or large part toward the written text portion of the project, given the increasing integration of AI. This was addressed by remaining true to personal values and as a student of academic integrity, whereby no forms of AI were used to write the text portion of this website so as to retain credibility and legitimacy of work.
+
+-   In trying to submit the assessment challenges on file size was a major issue which was addressed by removing videos, many images, which significantly changed the aesthetic of the website, particularly the home page. This took an additional 2 hours to rectify in order to publish and obtain a URL.
+
+**How has this project influenced your understanding of humanities practices?**
+
+-   That digital tools can enhance research output when harnessed and that it does not diminish the credibility or legitimacy of academic research when it shifts from the traditional analogue format to a digital interface.
+
+**If you were to expand or enhance the interface, what future developments would you consider?**
+
+-   Adding a 3D element so the audience can have a virtual interactive experience with the archaeological evidence.
+
+#### 

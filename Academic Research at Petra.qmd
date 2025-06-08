@@ -1,0 +1,50 @@
+---
+title: "Academic Research at Petra"
+bibliography: references.bib
+csl: chicago-fullnote-bibliography.csl
+lightbox: true
+---
+
+The data visualisation in figure 1, represents the various aspects applied to researching Petra's archaeological history using multiple lines of evidence.
+
+The data consists of 23 published studies and illustrates the importance of using multiple categories of evidence to build and develop a coherent picture of Nabataean Petra from 300BCE - 106CE. Representing the data visually allows for patterns to be more easily identified in terms of which categories of evidence have received the most focus and which aspects of research have been introduced as perspectives have advanced.
+
+![FIGURE 1. Perspectives on archaeological studies at Petra from 1935-2022](perspectives%20plot.png){.lightbox fig-align="center"}
+
+The word cloud in figure 2 is another visual representation of the data that reveals the 75 most frequently used words used across the published studies, which draws out archaeological features and aspects of research at Petra.
+
+![FIGURE 2. Word cloud generated from published studies representing 75 most frequently used terms.](word%20cloud.png){.lightbox fig-align="center"}
+
+In contrast, the same published studies are presented as a listing in table 1, which doesn't afford the same ability to draw insights or identify patterns.
+
+##### TABLE 1. Key Academic Publications of Research at Petra
+
+| PUBLISHED | TITLE | AUTHOR(S) | EVIDENCE | ASPECT |
+|:---|:---|:---|:---|----|
+| 1935 | The excavation of the Conway High Place at Petra | @albright1935 | Sanctuary | Religion |
+| 1977 | The Capitals from "The Temple of the Winged Lions," Petra | @hammond1977 | Temple | Architecture |
+| 1990 | The Architecture of Petra | @mckenzie1990 | Temple | Architecture |
+| 1995 | The Unique Nabataean High Place of Ras Slaysil Northwest of Petra and Its Topographical Context | @lindner1995 | Sanctuary | Religion |
+| 1995 | The Origins and Design of Nabataean Water-Supply Systems | @oleson1995 | Landscape | Water |
+| 2001 | The Betyls of Petra | @wenning2001 | Monument | Religion |
+| 2001 | A Pool Complex in Petra's City Center | @bedal2001 | Monument | Social |
+| 2002 | Excavating a Nabataean Mansion | @kolb2002 | Monument | Architecture |
+| 2010 | Factors Determining the Choice of the Construction Techniques in Petra, Jordan | @rababeh2010 | Monument | Architecture |
+| 2010 | The Identity of the Nabataean 'Painted House' Complex at Baidha, North-West Petra | @twaissi2010 | Monument | Architecture |
+| 2012 | The palaces of the Nabataean kings at Petra | @schmid2012 | Monument | Architecture |
+| 2014 | Excavations at Petra - The International Al-Khubthah Tombs Project | @wadeson2014 | Tomb | Social |
+| 2014 | The crowsteps motif in Nabataean architecture: insights into its meaning and use | @rababeh2014 | Tomb | Cultic |
+| 2015 | Garden variety seeds? Botanical remains from the Petra Garden and Pool Complex | @ramsay2015 | Temple | Botanical |
+| 2017 | The Brown University Petra Archaeological Project - Landscape Archaeology in the Northern Hinterland of Petra, Jordan | @knodell2017 | Landscape | Hinterland |
+| 2018 | A Cultural Landscape Characterization of the Petraean Hinterland in Nabataean-Roman Times: An Overview | @kennedy2018 | Landscape | Hinterland |
+| 2019 | Nabataean and Late Roman Domestic Complexes at Petra | @parker2019 | Monument | Architecture |
+| 2019 | *Arabia Adquisita* - the Romanization of the Nabataean Cultic Calendar and the Tannur ‘Zodiac’ Paradigm | @aviles2019 | Temple | Astronomy |
+| 2020 | Equinox in Petra - Land- and Skyscape in the Nabataean Capital | @belmonte2020 | Monument | Astronomy |
+| 2020 | Hydraulic Engineering at 100 BC-AD 300 Nabataean Petra (Jordan) | @ortloff2020 | Landscape | Water |
+| 2020 | Using dental enamel to uncover the impact of childhood diet on mortality in Petra, Jordan | @perry2020 | Osteology | Diet |
+| 2020 | The social dimensions of water management at Petra, Jordan | @plekhov2020 | Landscape | Water |
+| 2022 | Assessing Age-Related Mortality at Petra, Jordan, Using Cementochronology and Hazard Modeling | @propst2022 | Osteology | Diet |
+
+: {.striped .hover}
+
+#### Bibliography
