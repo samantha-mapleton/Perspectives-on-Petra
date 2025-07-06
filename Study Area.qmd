@@ -1,8 +1,0 @@
----
-title: "Cultural Map of Petra"
-lightbox: true
----
-It is important to recognise that Petra is a vast landscape that covers an area of 26171.527 hectares or 261.71527 square kilometers. 
-
-![Study Area \| Scale 1:5000 \| OpenStreetMap <https://www.openstreetmap.org/node/7549551054#map=17/30.328268/35.443976>](images/Study%20Area%20Map.jpg){.lightbox width="1400" height="700"}
-
